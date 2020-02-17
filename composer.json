@@ -1,0 +1,8 @@
+{
+    "name": "nazrulnazx/hello",
+    "description": "Some test description",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
